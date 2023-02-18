@@ -1,14 +1,49 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RicoHorta
+RicoHorta[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) is teaching and coding sinse 1994
 ====================================================================================================================================
 
-Coding sinse 1994.
+<table style="width:100%;height:200px;text-align:center;margin:auto;border-collapse: collapse;">
+  <tr style="height:100px;">
+    <td style="border:1px solid;border-bottom:10px solid">1994</td>
+    <td style="border-bottom:10px solid;"><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img              src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></td>
+    <td style="border:1px solid;border-bottom:10px solid">1998</td>
+    <td style="border-bottom:10px solid;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a></td>
+    <td style="border:1px solid;border-bottom:10px solid">2002</td>
+    <td style="border-bottom:10px solid;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></td>
+    <td style="border:1px solid;border-bottom:10px solid">2006</td>
+    <td style="border-bottom:10px solid;"><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a></td>
+    <td style="border:1px solid;border-bottom:10px solid">2010</td>
+    <td style="border-bottom:10px solid;"><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a></td>
+    <td style="border:1px solid;border-bottom:10px solid">2014</td>
+    <td style="border-bottom:10px solid;"><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a></td>
+    <td style="border:1px solid;border-bottom:10px solid">2018</td>
+    <td style="border-bottom:10px solid;"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a></td>
+    <td style="border:1px solid;border-bottom:10px solid">2022</td>
+    <td style="border-bottom:10px solid;"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a></td>
+    <td style="border:1px solid;">1996</td>
+    <td><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a></td>
+    <td style="border:1px solid;">2000</td>
+    <td><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a></td>
+    <td style="border:1px solid;">2004</td>
+    <td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a></td>
+    <td style="border:1px solid;">2008</td>
+    <td><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a></td>
+    <td style="border:1px solid;">2012</td>
+    <td><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a></td>
+    <td style="border:1px solid;">2016</td>
+    <td><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a></td>
+    <td style="border:1px solid;">2020</td>
+    <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a></td>
+    <td style="border:1px solid;">2024</td>
+  </tr>
+  
+</table>
+
 ------------------
 
-Tech Teacher and Entrepreneur seeks a new career doing what his LOVE....
-
-*   🌍  I'm based in Muriaé - MG - Brasil
-*   ✉️  You can contact me at [ricardohorta@gmail.com.br](mailto:ricardohorta@gmail.com.br)
-*   🧠  I'm learning everithing in Dev Whorld 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
