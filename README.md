@@ -4,7 +4,7 @@ RicoHorta is teaching and coding sinse 1994
 <table style="width:100%;height:200px;text-align:center;margin:auto;border-collapse: collapse;">
   <tr style="height:100px;">
     <td style="border:1px solid;border-bottom:10px solid">1994</td>
-    <td style="border-bottom:10px solid;"><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img              src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></td>
+    <td style="border-bottom:10px solid;"><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a></td>
     <td style="border:1px solid;border-bottom:10px solid">1998</td>
     <td style="border-bottom:10px solid;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a></td>
     <td style="border:1px solid;border-bottom:10px solid">2002</td>
@@ -24,7 +24,7 @@ RicoHorta is teaching and coding sinse 1994
   <tr>
     <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a></td>
     <td style="border:1px solid;">1996</td>
-    <td><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a></td>
+    <td><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img              src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></td>
     <td style="border:1px solid;">2000</td>
     <td><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a></td>
     <td style="border:1px solid;">2004</td>
