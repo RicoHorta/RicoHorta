@@ -1,4 +1,4 @@
-RicoHorta is teaching and coding sinse 1994
+RicoHorta teaches and codes sinse 1994
 ====================================================================================================================================
 
 <table style="width:100%;height:200px;text-align:center;margin:auto;border-collapse: collapse;">
