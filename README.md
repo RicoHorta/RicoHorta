@@ -1,5 +1,6 @@
 &lt;RicoHorta/&gt; teaches and codes sinse 1994...
 ====================================================================================================================================
+// Times New Roman? What was wrong with the old Romans?
 
 <table style="width:100%;height:200px;text-align:center;margin:auto;border-collapse: collapse;">
   <tr style="height:100px;">
@@ -42,7 +43,9 @@
   
 </table>
 
-// Times New Roman? What was wrong with the old Romans?
+
+
+<a href="https://github.com/RicoHorta"><img src="https://camo.githubusercontent.com/650b5b1aa80ae2addedd5d961a5d2480dc623a1590af5cb296562ac89f08ed65/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f74686169616e653f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="GitHub RicoHorta" data-canonical-src="https://img.shields.io/github/followers/RicoHorta?label=follow&amp;style=social" style="max-width: 100%;"></a>
 
 <a href="http://www.github.com/RicoHorta"><img src="https://github-readme-stats.vercel.app/api?username=RicoHorta&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RicoHorta's GitHub stats" /></a>
 
