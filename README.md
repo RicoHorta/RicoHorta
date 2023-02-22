@@ -42,6 +42,7 @@
   
 </table>
 
+// Times New Roman? What was wrong with the old Romans?
 
 <a href="http://www.github.com/RicoHorta"><img src="https://github-readme-stats.vercel.app/api?username=RicoHorta&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RicoHorta's GitHub stats" /></a>
 
