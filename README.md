@@ -1,6 +1,6 @@
 &lt;RicoHorta/&gt; teaches and codes sinse 1994...
 ====================================================================================================================================
-thought drop: Times New Roman? What was wrong with the old Romans?
+<u>thought drop</u>: Times New Roman? What was wrong with the old Romans?
 
 <table style="width:100%;height:200px;text-align:center;margin:auto;border-collapse: collapse;">
   <tr style="height:100px;">
