@@ -1,8 +1,8 @@
 &lt;RicoHorta/&gt; teaches and codes sinse 1994...
 ====================================================================================================================================
-<u>thought drop</u>: Times New Roman? What was wrong with the old Romans?
+<u>Thought drop</u>: Times New Roman? What was wrong with the old Romans?
 
-<table style="width:100%;height:200px;text-align:center;margin:auto;border-collapse: collapse;">
+<table style="width:80%;height:200px;text-align:center;margin:auto;border-collapse: collapse;">
   <tr style="height:100px;">
     <td style="border:1px solid;border-bottom:10px solid">1994</td>
     <td style="border-bottom:10px solid;"><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a></td>
